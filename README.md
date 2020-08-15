@@ -1,4 +1,4 @@
-# moushumi_portfolio
+
 # Project 1: [Bird Image Classifier](https://github.com/moushumi-das/Deep_learning)
 For this Data Science project I have used deep learning for image classification.
 
