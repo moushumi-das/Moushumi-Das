@@ -14,7 +14,7 @@ I have used the following chrome extention to download the data from google imag
 ![](./Netflix/rating.png)
 ![](./Netflix/movie_duration.png)
 
-#Project 2: [Image_Classifications_With_OpenCV](https://github.com/moushumi-das/Image_Classifications_With_OpenCV)
+# Project 2: [Image_Classifications_With_OpenCV](https://github.com/moushumi-das/Image_Classifications_With_OpenCV)
 For this Data Science project I have used OpenCV python  for image classification.
 
 ## Data
