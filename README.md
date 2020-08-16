@@ -30,8 +30,8 @@ In this project, I have built a image classsifier to itentify the image of femal
 # Project 3: [Data Analysis With Pandas](https://github.com/moushumi-das/data_analysis_with_pandas)
 Exploratory data analysis of Netflix movies and tv shows
 
-## Data Source:(https://www.kaggle.com)
-https://www.kaggle.com/shivamb/netflix-shows
+## Data Source:
+[](https://www.kaggle.com/shivamb/netflix-shows)
 ## Objective:
 In this notebook I am going to try explore the data I have and going to answer questions like:
 
