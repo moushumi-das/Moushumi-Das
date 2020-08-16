@@ -32,12 +32,13 @@ In this project, I have built a image classsifier to itentify the image of femal
    4. Evaluate model performance
    5. Parameter tuning
  
- # Project 3: [Data Analysis With Pandas](https://github.com/moushumi-das/data_analysis_with_pandas)
+# Project 3: [Data Analysis With Pandas](https://github.com/moushumi-das/data_analysis_with_pandas)
 Exploratory data analysis of Netflix movies and tv shows
 
-### Data Source:
+## Data Source:
 https://www.kaggle.com/shivamb/netflix-shows
-####  In this notebook I am going to try explore the data I have and going to answer questions like:
+
+##  In this notebook I am going to try explore the data I have and going to answer questions like:
 
  - What are the percentage of different content types on Netflix
  - What is the number of contents added over the years on Netflix
