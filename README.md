@@ -24,7 +24,7 @@ In this project, I have built a image classsifier to itentify the image of **Fem
 **Steps:**
    1. Get Data: Creat dataset by image scraping. 
    2. Prepare Data: Clean, normalize, and get data in a form that we can feed into our model
-   3. Train Model: Trained data using **Support Vector Classification(SVC), Logistic Regression, and Random Forest Classification**
+   3. Train Model: Trained data using **Support Vector Classification(SVC), Logistic Regression,** and **Random Forest Classification**
    4. Evaluate model performance
    5. Parameter tuning.
    
