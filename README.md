@@ -1,5 +1,5 @@
 
-# Project 1: [Bird Image Classifier](https://github.com/moushumi-das/Deep_learning)
+## Project 1: [Bird Image Classifier](https://github.com/moushumi-das/Deep_learning)
 For this Data Science project I have used deep learning for image classification.
 
 ## Data
@@ -12,7 +12,7 @@ After minimal tuning, I was able to get the model to predict the bird's type wit
 
 ![](/images/confusion_matrix.png)
 
-# Project 2: [Image Classifications With OpenCV](https://github.com/moushumi-das/Image_Classifications_With_OpenCV)
+## Project 2: [Image Classifications With OpenCV](https://github.com/moushumi-das/Image_Classifications_With_OpenCV)
 For this Data Science project I have used OpenCV python  for image classification.
 
 ## Data
