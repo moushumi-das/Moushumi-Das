@@ -11,10 +11,6 @@ In this project, I have built a bird classsifier to itentify singing bird from d
 After minimal tuning, I was able to get the model to predict the bird's type with 93% accuracy. In most of the cases this would meet the need of an end user of the app. In order to get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results.
 
 
-![](/images/top_countries.png) 
-![](/images/rating.png)
-![](/images/movie_duration.png)
-
 # Project 2: [Image Classifications With OpenCV](https://github.com/moushumi-das/Image_Classifications_With_OpenCV)
 For this Data Science project I have used OpenCV python  for image classification.
 
@@ -49,9 +45,9 @@ In this notebook I am going to try explore the data I have and going to answer q
  - What are the oldest TV Shows  and Movies on Netflix.
  - Which director made how many movies in each release_year
  
-![](./Netflix/top_countries.png) 
-![](./Netflix/rating.png)
-![](./Netflix/movie_duration.png)
+![](/images/top_countries.png) 
+![](/images/rating.png)
+![](/images/movie_duration.png)
 
 # Project: 4 [sales_data_analysis ](https://github.com/moushumi-das/Sales_Data-Analysis)
 Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
