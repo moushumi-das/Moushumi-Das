@@ -52,7 +52,7 @@ In this notebook I am going to try explore the data I have and going to answer q
 Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 
 ## Dataset source:
-https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data
+[https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
 
 # Objective
 * Concate multiple csv files together to generate a new DataFrame. 
