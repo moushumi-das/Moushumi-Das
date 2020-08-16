@@ -57,7 +57,7 @@ Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 ### Dataset source:
 [https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
 
-# Objective
+## Objective
 * Concate multiple csv files together to generate a new DataFrame. 
 * Get information about the dataset using describe() & info().
 * Use groupby() to perform aggregate analysis.
