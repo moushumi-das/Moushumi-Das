@@ -16,7 +16,7 @@ After minimal tuning, I was able to get the model to predict the bird's type wit
 ![](./Netflix/rating.png)
 ![](./Netflix/movie_duration.png)
 
-# Project 2: [Image_Classifications_With_OpenCV](https://github.com/moushumi-das/Image_Classifications_With_OpenCV)
+# Project 2: [Image Classifications With OpenCV](https://github.com/moushumi-das/Image_Classifications_With_OpenCV)
 For this Data Science project I have used OpenCV python  for image classification.
 
 ## Data
