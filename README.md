@@ -63,8 +63,6 @@ Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 * Find the correlation between price of the products and quantity ordered.
 * Generate a bar graph of top selling city.
 
-Pie graph of 'Product type' and 'Quantity Ordered'.
-bar plot of quantity of ordered product and line plot of top_sales_hour
 ![](/images/pie_chart.png)
 ![](/images/product_price.png)
 
