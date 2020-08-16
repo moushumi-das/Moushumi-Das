@@ -52,7 +52,7 @@ https://www.kaggle.com/shivamb/netflix-shows
 ![](./Netflix/rating.png)
 ![](./Netflix/movie_duration.png)
 
-# Project:4 [sales_data_analysis ](https://github.com/moushumi-das/Sales_Data-Analysis)
+# Project: 4 [sales_data_analysis ](https://github.com/moushumi-das/Sales_Data-Analysis)
 Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 
 ## Dataset source:
