@@ -32,7 +32,7 @@ In this project, I have built a image classsifier to itentify the image of femal
    4. Evaluate model performance
    5. Parameter tuning
  
- # Project 3: [Data Analysis With Pandas] (https://github.com/moushumi-das/data_analysis_with_pandas)
+ # Project 3: [Data Analysis With Pandas](https://github.com/moushumi-das/data_analysis_with_pandas)
 Exploratory data analysis of Netflix movies and tv shows
 
 ### Data Source:
