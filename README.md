@@ -31,3 +31,46 @@ In this project, I have built a image classsifier to itentify the image of femal
    3. Train Model: Trained data using Support Vector Classification(SVC), Logistic Regression, and Random Forest Classification
    4. Evaluate model performance
    5. Parameter tuning
+ 
+ # Project 3: [Data Analysis With Pandas] (https://github.com/moushumi-das/data_analysis_with_pandas)
+Exploratory data analysis of Netflix movies and tv shows
+
+### Data Source:
+https://www.kaggle.com/shivamb/netflix-shows
+####  In this notebook I am going to try explore the data I have and going to answer questions like:
+
+ - What are the percentage of different content types on Netflix
+ - What is the number of contents added over the years on Netflix
+ - What are the user ratings on Netflix contents
+ - Which country released highest number of contents.
+ - What is the average length of movies
+ - What combination of countries  and content types are most common?
+ - What are the oldest TV Shows  and Movies on Netflix.
+ - Which director made how many movies in each release_year
+ 
+![](./Netflix/top_countries.png) 
+![](./Netflix/rating.png)
+![](./Netflix/movie_duration.png)
+
+# Project:4 [sales_data_analysis ](https://github.com/moushumi-das/Sales_Data-Analysis)
+Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
+
+## Dataset source:
+[(https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)]
+
+# Objective
+* Concate multiple csv files together to generate a new DataFrame. 
+* Get information about the dataset using describe() & info().
+* Use groupby() to perform aggregate analysis.
+* Display the sales break down by product category.
+* Display a line plot of top_sales_hour
+* Find the correlation between price of the products and quantity ordered.
+* Generate a bar graph of top selling city.
+
+Pie graph of 'Product type' and 'Quantity Ordered'.
+bar plot of quantity of ordered product and line plot of top_sales_hour
+![](pie_chart.png)
+![](product_price.png)
+
+   
+
