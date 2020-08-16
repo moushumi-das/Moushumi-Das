@@ -66,8 +66,8 @@ https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysi
 
 Pie graph of 'Product type' and 'Quantity Ordered'.
 bar plot of quantity of ordered product and line plot of top_sales_hour
-![](pie_chart.png)
-![](product_price.png)
+![](/images/pie_chart.png)
+![](/images/product_price.png)
 
    
 
