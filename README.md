@@ -27,7 +27,7 @@ In this project, I have built a image classsifier to itentify the image of **Fem
    3. Train Model: Trained data using Support Vector Classification(SVC), Logistic Regression, and Random Forest Classification
    4. Evaluate model performance
    5. Parameter tuning
- 
+![](/images/test image.png) 
 # Project 3: [Data Analysis With Pandas](https://github.com/moushumi-das/data_analysis_with_pandas)
 Exploratory data analysis of Netflix movies and tv shows
 
