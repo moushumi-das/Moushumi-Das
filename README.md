@@ -58,13 +58,15 @@ Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 [https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
 
 ## Objective
-* Concate multiple csv files together to generate a new DataFrame. 
-* Get information about the dataset using describe() & info().
-* Use groupby() to perform aggregate analysis.
-* Display the sales break down by product category.
-* Display a line plot of top_sales_hour
-* Find the correlation between price of the products and quantity ordered.
-* Generate a bar graph of top selling city.
+####  In this notebook I am going to try explore the data I have and going to answer questions like:
+
+ - What was the best month for sales? How much was earned that month?
+ - What is the best time to display the advertisement which will increase the likelihood of customer buying the products?
+ - What products are most often sold together?
+ - Top selling products by quantity 
+ - Is there any correlation between price of the products and quantity ordered?
+ - Which city sold the highest number of product?
+
 
 ![](/images/pie_chart.png)
 ![](/images/product_price.png)
