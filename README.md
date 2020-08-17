@@ -58,7 +58,7 @@ Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 [https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
 
 ## Objective
-####  In this project I am going to try explore the data I have and going to answer questions like:
+ In this project I am going to try explore the data I have and going to answer questions like:
 
  - What was the best month for sales? How much was earned that month?
  - What is the best time to display the advertisement which will increase the likelihood of customer buying the products?
