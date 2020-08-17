@@ -1,6 +1,9 @@
 
 ## Project 1: [Bird Image Classifier](https://github.com/moushumi-das/Deep_learning)
-For this Data Science project I have used **deep learning** for image classification.
+For this Data Science project I have used **deep learning** for image classification. **Google Colab** has been used for this project as it has following featues:
+- Zero configuration required
+- Free access to GPUs
+- Easy sharing
 
 ## Data
 I have used the following chrome extention to download the data from google images. [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en)
