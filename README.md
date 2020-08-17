@@ -6,7 +6,7 @@ For this Data Science project I have used **deep learning** for image classifica
 I have used the following chrome extention to download the data from google images. [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en)
 
 ## Configuration
-**Google Colab** has been used for this project as it has following featues:
+**Google Colab** has been used for this project as it has following features:
 - Zero configuration required
 - Free access to GPUs
 - Easy sharing
