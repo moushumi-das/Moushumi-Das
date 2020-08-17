@@ -1,13 +1,15 @@
 
 ## Project 1: [Bird Image Classifier](https://github.com/moushumi-das/Deep_learning)
-For this Data Science project I have used **deep learning** for image classification. **Google Colab** has been used for this project as it has following featues:
-- Zero configuration required
-- Free access to GPUs
-- Easy sharing
+For this Data Science project I have used **deep learning** for image classification. 
 
 ## Data
 I have used the following chrome extention to download the data from google images. [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en)
 
+## Configuration
+**Google Colab** has been used for this project as it has following featues:
+- Zero configuration required
+- Free access to GPUs
+- Easy sharing
 ## Overview 
 In this project, I have built a bird classsifier to itentify singing bird from different part of the world. This could be useful for someone who is interested to know about singing birds. They could take picture of a bird and an app could provide the some information about those singing birds. This is the underlying model for building something with those capabilities. 
 
