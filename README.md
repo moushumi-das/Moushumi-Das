@@ -9,7 +9,8 @@ I have used the following chrome extention to download the data from google imag
 **Google Colab** has been used for this project as it has following features:
 - Zero configuration required
 - Free access to GPUs
-- Easy sharing
+- Easy sharing.
+
 
 ## Overview 
 In this project, I have built a bird classsifier to itentify singing bird from different part of the world. This could be useful for someone who is interested to know about singing birds. They could take picture of a bird and an app could provide the some information about those singing birds. This is the underlying model for building something with those capabilities. 
