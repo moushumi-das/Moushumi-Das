@@ -37,7 +37,32 @@ In this project, I have built a image classsifier to itentify the image of **Fem
    
 ![](/images/test image.png) 
 
-## Project 3: [Data Analysis With Pandas](https://github.com/moushumi-das/data_analysis_with_pandas)
+## Project 3: [sales_data_analysis ](https://github.com/moushumi-das/Sales_Data-Analysis)
+Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
+
+### Dataset source:
+[https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
+
+## Objective
+ In this project I am going to try explore the data I have and going to answer questions like:
+
+ - What was the best month for sales? How much was earned that month?
+ - What is the best time to display the advertisement which will increase the likelihood of customer buying the products?
+ - What products are most often sold together?
+ - Top selling products by quantity 
+ - Is there any correlation between price of the products and quantity ordered?
+ - Which city sold the highest number of product?
+
+
+![](/images/pie_chart.png)
+![](/images/product_price.png)
+
+
+
+
+
+
+## Project: 4 [Data Analysis With Pandas](https://github.com/moushumi-das/data_analysis_with_pandas)
 Exploratory data analysis of Netflix movies and tv shows
 
 ### Data Source:
@@ -57,26 +82,6 @@ In this notebook I am going to try explore the data I have and going to answer q
 ![](/images/top_countries.png) 
 ![](/images/rating.png)
 ![](/images/movie_duration.png)
-
-## Project: 4 [sales_data_analysis ](https://github.com/moushumi-das/Sales_Data-Analysis)
-Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
-
-### Dataset source:
-[https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
-
-## Objective
- In this project I am going to try explore the data I have and going to answer questions like:
-
- - What was the best month for sales? How much was earned that month?
- - What is the best time to display the advertisement which will increase the likelihood of customer buying the products?
- - What products are most often sold together?
- - Top selling products by quantity 
- - Is there any correlation between price of the products and quantity ordered?
- - Which city sold the highest number of product?
-
-
-![](/images/pie_chart.png)
-![](/images/product_price.png)
 
    
 
