@@ -1,5 +1,5 @@
 
-## Project 1: [Bird Image Classifier](https://github.com/moushumi-das/Deep_learning)
+## Project 1: [Moushumi Dinner](https://github.com/moushumi-das/Personal-Project/tree/master/NodeJS_project)
 For this Data Science project I have used **deep learning** for image classification. 
 
 ## Data
