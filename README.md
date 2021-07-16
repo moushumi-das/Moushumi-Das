@@ -29,8 +29,7 @@ In this project, I have built a Real time food ordering web application where cu
 
 
 
-![](/images/pie_chart.png)
-![](/images/product_price.png)
+
 
 
 
