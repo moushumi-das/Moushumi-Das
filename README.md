@@ -19,7 +19,7 @@ In this project, I have built a Real time food ordering web application where cu
 ### Admin
    Admin  user has full control over managing users. Admin can add,delete and update **menu items** and **users**.
    
-###Customer
+### Customer
        1.Browse MenuItems 
        5.Add and modify cart items
        3.Manage Address and Checkout features
