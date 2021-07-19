@@ -16,10 +16,10 @@ In this project, I have built a Real time food ordering web application where cu
    
    
    
-   ### Admin
+### Admin
    Admin  user has full control over managing users. Admin can add,delete and update **menu items** and **users**.
    
-   ### Customer
+### Customer
        1.Add to cart MenuItems
        2.Manage Address and Checkout features
        3.Payment integration with Stripe
