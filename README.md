@@ -20,11 +20,12 @@ In this project, I have built a Real time food ordering web application where cu
    Admin  user has full control over managing users. Admin can add,delete and update **menu items** and **users**.
    
 ###Customer
-       1.Add to cart MenuItems
-       2.Manage Address and Checkout features
-       3.Payment integration with Stripe
+       1.Browse MenuItems 
+       5.Add and modify cart items
+       3.Manage Address and Checkout features
        4.Track the order status in real time
-       5.Browse categories and their MenuItems
+       5.Previous Order history
+       
 
 
 
