@@ -6,7 +6,7 @@ For this project I have used Html, CSS, Node.js, Express.js and Mongo DB .
 ## Overview 
 In this project, I have built a Real time food ordering web application where customer can track the status of their order in real time. Passport.js has been used for user authentication.
   
- ## Features: 
+## Features: 
     - Login & Registration system
     - User roles(Admin and Customer)
     - Customized dashboard for customer and admin
