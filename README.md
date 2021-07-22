@@ -27,6 +27,19 @@ In this project, I have built a Real time food ordering web application where cu
        5.Previous Order history
        
 
+      
+  ### Home page:
+![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/home_page.PNG)
+ ### Login page:
+![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/login_page.PNG)
+### Checkout page
+![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/Checkout_page.PNG)
+ ### Tracking order status in real-time
+![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/Order_status.PNG)
+ ### Menu
+![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/menu_page.PNG)
+ ### Admin Dashboard
+![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/Admin_dashboard.PNG)
 
 
 
