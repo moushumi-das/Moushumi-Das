@@ -29,7 +29,7 @@ In this project, I have built a Real time food ordering web application where cu
 
       
   ### Home page:
-![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/home_page.PNG)
+![](https://github.com/moushumi-das/Moushumi-Das/blob/master/images/Admin_dashboard.PNG)
  ### Login page:
 ![](https://github.com/moushumi-das/Web-developement_Personal-Project/blob/master/images/login_page.PNG)
 ### Checkout page
